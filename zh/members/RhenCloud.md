@@ -117,7 +117,7 @@ Minecraft 生电玩家。
 
 - Telegram: [RhenCloud](https://t.me/RhenCloud)
 
-- Email: [Email Protected](https://wss.moe/m64/aUByaGVuLmNsb3Vk)
+- Email: [Email Protected](https://wss.moe/m64/aUByaGVuLmNsb3Vk) / [Email Protected (team)](https://wss.moe/m64/UmhlbkNsb3VkQHNpaXdheS5vcmc=)
 
 - NetEase Music: [RhenCloud](https://music.163.com/#/user?id=8028363957)
 

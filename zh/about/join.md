@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # SiiWay 招新公告
 
 ## 背景
@@ -35,7 +39,7 @@
 
 - 拥有丰富的计算机基础知识
 - 具备一定的编程技能 (如: `Python`, `TypeScript`, `C#`, `Rust`, ...)
-- 拥有 GitHub 账户 *& Discord 账户 (以及其他的社交平台)*
+- 拥有 GitHub 账户 *(以及其他的社交平台)*
 
 ## 声明
 
@@ -48,9 +52,21 @@
 5. **我们不限制成员的政治思想和宗教信仰 (甚至性取向)，但禁止以*任何*形式在*任何*地点以本团队名义发布*任何*影响我们声誉的内容，一旦查出，必将受到严厉惩罚。**
 6. 本团队将严格确保你的信息得到安全处理.
 
-## 如何加入
+## 加入
 
-请通过 [Contact](./contact) 中的联系方式联系我们, 审核通过后即可加入.
+这里什么都没有... 吗?
+
+不知道, 但你或许可以到处找找?
+
+或者看看这个页面和其他地方有什么不同之处? 比如少了<a href="https://github.com/siiway/homepage/blob/main/zh/about/join.md?plain=1#L63-L69" target="_blank" style="color: var(--vp-c-text-1); text-decoration: none;"><span style="font-size: 1.1em;">什么</span></a>?
+
+<!--
+
+https://wss.moe/join
+
+it is.
+
+-->
 
 ## End
 
