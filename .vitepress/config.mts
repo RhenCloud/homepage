@@ -57,8 +57,8 @@ export default defineConfig({
             text: "开发",
             link: "/zh/dev/",
             items: [
-              { text: "Python 代码规范", link: "/zh/about/python-style" },
-              { text: "贡献指南", link: "/zh/about/contributing" },
+              { text: "Python 代码规范", link: "/zh/dev/python-style" },
+              { text: "贡献指南", link: "/zh/dev/contributing" },
             ],
           },
           {
