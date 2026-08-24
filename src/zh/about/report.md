@@ -2,8 +2,6 @@
 
 以下是与 SiiWay 有关的违规行为举报途径。
 
-> 违规：违反了 **[SiiWay 行为准则](./code-of-conduct)** 或其他 **平台特定的规则**（如 [QQ 群规则](./rules-qq)）
-
 ## 通用
 
 团队通用举报 Email：[Email Protected](https://wss.moe/m64/cmVwb3J0QHNpaXdheS5vcmc=)

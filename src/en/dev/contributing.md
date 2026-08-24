@@ -33,7 +33,3 @@
 - For bug reports, please provide: environment info, reproduction steps, expected behavior, actual behavior, screenshots
 - For feature requests, please describe: use case, desired effect
 - Use issue templates when available
-
-## Code of Conduct
-
-Please follow the [SiiWay Code of Conduct](/en/about/code-of-conduct)
