@@ -130,6 +130,7 @@ export default defineConfig({
               { text: "飞书群组", link: "https://wss.moe/fs" },
               { text: "微信公众号", link: "https://wss.moe/wx" },
               { text: "Discord", link: "https://wss.moe/dc" },
+              { text: "Bluesky", link: "https://bsky.app/profile/siiway.org" },
               { text: "GitHub", link: "https://wss.moe/gh" },
               { text: "Telegram 群组", link: "https://wss.moe/tg" },
               { text: "Telegram 频道", link: "https://wss.moe/tgc" },
@@ -220,6 +221,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: "Discord", link: "https://wss.moe/dc" },
+              { text: "Bluesky", link: "https://bsky.app/profile/siiway.org" },
               { text: "GitHub", link: "https://wss.moe/gh" },
               { text: "Telegram Group", link: "https://wss.moe/tg" },
               { text: "Telegram Channel", link: "https://wss.moe/tgc" },
